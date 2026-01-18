@@ -131,3 +131,12 @@ body {
 .text_color_whitesmoke {
   background: whitesmoke;
 }
+
+.bg_color, .text_color {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  border-radius: 4px;
+  margin-left: 5px;
+  box-sizing: border-box;
+}
